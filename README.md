@@ -42,10 +42,10 @@ I’m a **Product** working with **B2B digital products**, especially **SaaS, ER
 
 ### 📌 Featured Product Work
 
-- **ERP & SaaS Platforms** — strategy, discovery and evolution of core modules  
-- **Fintech Products** — digital accounts & receivables platforms  
-- **KDS & POS Experiences** — mobile-first UX, performance and ops efficiency  
-- **Product Ops & Governance** — rituals, metrics and product maturity  
+- **ERP & SaaS Platforms** Strategy, discovery and evolution of core modules  
+- **Fintech Products**  Digital accounts & receivables platforms  
+- **KDS & POS Experiences** Mobile-first UX, performance and ops efficiency  
+- **Product Ops & Governance** Rituals, metrics and product maturity  
 
 ---
 
