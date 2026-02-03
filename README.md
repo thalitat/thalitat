@@ -17,7 +17,7 @@ I’m a **Product** working with **B2B digital products**, especially **SaaS, ER
 - 🎓 MBA in: **Solutions Architecture & Digital Strategy**  
 - 🔭 Experience across the **entire product lifecycle**, from discovery to scale  
 - 🧠 Background in **Product Design + Software Engineering**  
-- 🦈🧙‍♀️ **Product Girl**shark mindset, witch creativity  
+- 🦈🧙‍♀️ **Product Girl** Shark mindset, witch creativity  
 
 ---
 
