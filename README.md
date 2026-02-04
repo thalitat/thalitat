@@ -78,23 +78,3 @@ I’m a **Product** working with **B2B digital products**, especially **SaaS, ER
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
----
-### 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td colspan="2" align="center">
-        <img width="820" src="https://github-readme-streak-stats.herokuapp.com?user=thalitat&theme=tokyonight" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="400" src="./profile/langs.svg" alt="Top Languages" />
-      </td>
-      <td align="center">
-        <img width="410" src="./profile/stats.svg" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
