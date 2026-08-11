@@ -11,7 +11,7 @@ You can call me **Taty** or **Tablet** 🪄🧹
 
 I’m a **Product** working with **B2B digital products**, especially **SaaS, ERP, and financial platforms**, connecting **strategy, discovery, prioritization, and delivery** to generate real business impact.
 
-- 👩🏻‍🎓 Graduated in **Systems Analysis and Development** (Uniube)  
+- 👩🏻‍🎓 Graduated in **Systems Analysis and Development and Marketing Digital** (Uniube)  
 - 🎓 Postgraduate in **Software Engineering**  
 - 🎓 Postgraduate in **IT Project Management with Agile Methodologies**  
 - 🎓 MBA in: **Solutions Architecture & Digital Strategy**  
