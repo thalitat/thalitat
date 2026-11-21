@@ -54,7 +54,7 @@ I enjoy turning complex problems into simple solutions, connecting people, busin
   <img src="https://img.shields.io/badge/5S-00897B?style=for-the-badge" />
 </p>
 
-**Development & Data**
+**Development**
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -67,6 +67,8 @@ I enjoy turning complex problems into simple solutions, connecting people, busin
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
 **AI & Innovation**
